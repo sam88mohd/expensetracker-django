@@ -1,1 +1,3 @@
-# expensetracker-django
+# Expensetracker-django
+
+## django as backend
